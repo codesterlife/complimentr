@@ -16,3 +16,7 @@ Copy `.env.example` to `.env` and update it with your [Twilio](https://twilio.co
 #### In Development mode
 
 * `gunicorn app:app`
+
+### Disclaimer
+
+This Project was did as a part of the [APIs for Beginners](https://www.freecodecamp.org/news/apis-for-beginners-full-course/) course on [FreeCodeCamp](https://www.freecodecamp.org/) by [Craig Dennis](https://github.com/craigsdennis). This project was supposed to be deployed using Glitch as per the course instruction. But I had to try it out using a different method I learned. I hope I don't get in trouble for this. :grimacing: :sweat_smile:
